@@ -1,6 +1,6 @@
 # shopping_cart
 
-This template should help get you started developing with Vue 3 in Vite.
+This a shopping cart app built with vue.js
 
 ## Recommended IDE Setup
 
