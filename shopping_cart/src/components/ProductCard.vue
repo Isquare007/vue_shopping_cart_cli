@@ -1,4 +1,4 @@
-<template>
+,<template>
     <div class="card">
         <div class="card-title">
             {{ product.name }}
